@@ -8,7 +8,7 @@ Meu nome é Grazieli Candido sou estudante de Análise e Desenvolvimento de Sist
 
 ### Me conhecendo um pouquinho mais 👩‍💻
 <p align="center">
-<img height="200em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+<img height="200em" src="https://github.com/grazicandido/grazicandido/blob/main/fundo%20image.gif"/>
 </p>
 
 
