@@ -3,7 +3,7 @@
   Hello World 👋
 </h1>
 <div>
-Meu nome é Grazieli Candido sou estudante de Análise e Desenvolvimento de Sistemas, através de uma matéria da faculdade apaixonei em dados e através de estudos amei estudar kotlin e aqui sigo criando e trabalhando em projetos para aprendizado (e alguns pessoais). Seja bem - vindo :) 
+Meu nome é Grazieli Candido sou estudante de Análise e Desenvolvimento de Sistemas, através de uma matéria da faculdade apaixonei em dados e através de estudos estou amando cybersecurity, amo estudar sobre essa relação dos dados e como influencia na segurança das informações. Aqui sigo criando e trabalhando em projetos para aprendizado (e alguns pessoais). Seja bem - vindo :) 
 </div >
 
 ##
@@ -16,7 +16,7 @@ Meu nome é Grazieli Candido sou estudante de Análise e Desenvolvimento de Sist
 
 
 - 📚 Estou aprendendo espanhol e aperfeiçoando meu inglês.
-- 📱Estou desenvolvendo um aplicativo de livros para pré-escola (junto ao meu grupo da faculdade).
+- 📱Estou desenvolvendo um aplicativo de livros infantis (junto ao meu grupo da faculdade).
 
 <h3 align= "center">
 Você também pode me encontrar por aqui👥  
