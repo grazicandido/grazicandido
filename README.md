@@ -15,8 +15,8 @@ Meu nome é Grazieli Candido sou estudante de Análise e Desenvolvimento de Sist
 
 
 
-- 📚 Estou aprendendo espanhol e aperfeiçoando meu inglês.
-- 📱Estou desenvolvendo um aplicativo de livros infantis (junto ao meu grupo da faculdade).
+- 📚 Estou aperfeiçoando meu inglês.
+- 📱Estou desenvolvendo um aplicativo de livros infantis na faculdade.
 
 <h3 align= "center">
 Você também pode me encontrar por aqui👥  
